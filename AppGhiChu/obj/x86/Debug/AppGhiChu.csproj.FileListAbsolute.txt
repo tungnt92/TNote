@@ -1,0 +1,365 @@
+c:\users\duythanh\documents\visual studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\App.g.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\AddPage.g.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\MainPage.g.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.g.resources
+c:\users\duythanh\documents\visual studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.Resources.AppResources.resources
+c:\users\duythanh\documents\visual studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.csproj.GenerateResource.Cache
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu.pdb
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppManifest.xaml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu_Debug_x86.xap
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\SQLite.Net.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\SQLite.Net.Platform.WindowsPhone8.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\Sqlite.winmd
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\Sqlite.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.pdb
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\XapCacheFile.xml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\DetailPage.g.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\System.Windows.Controls.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\System.Windows.Controls.xml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\DescribePage.g.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\Bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\SearchPage.g.cs
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\ApplicationIcon.png
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu.pdb
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppManifest.xaml
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Properties\WMAppManifest.xml
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu_Debug_x86.xap
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Newtonsoft.Json.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\SQLite.Net.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\SQLite.Net.Platform.WindowsPhone8.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Sqlite.winmd
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Newtonsoft.Json.xml
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Sqlite.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\System.Windows.Controls.xml
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ar\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\bg\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ca\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\cs\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\da\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\de\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\el\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\es\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\et\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\eu\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fi\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\he\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hr\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hu\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\id\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\it\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ja\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ko\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lt\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lv\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ms\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\nl\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\no\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pl\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-BR\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ro\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ru\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sk\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sl\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sv\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\th\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\tr\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\uk\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\vi\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-Hans\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-Hant\System.Windows.Controls.resources.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.csprojResolveAssemblyReference.cache
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\App.g.cs
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AddPage.g.cs
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\DescribePage.g.cs
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\DetailPage.g.cs
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\MainPage.g.cs
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\SearchPage.g.cs
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.g.resources
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.Resources.AppResources.resources
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.csproj.GenerateResource.Cache
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.dll
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.pdb
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\XapCacheFile.xml
+F:\LienMinhHuyenThoai.0303\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\Page1.g.cs
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\ApplicationIcon.png
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu.pdb
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppManifest.xaml
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Properties\WMAppManifest.xml
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\AppGhiChu_Debug_x86.xap
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Newtonsoft.Json.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\SQLite.Net.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\SQLite.Net.Platform.WindowsPhone8.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Sqlite.winmd
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Newtonsoft.Json.xml
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\Sqlite.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\System.Windows.Controls.xml
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ar\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\bg\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ca\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\cs\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\da\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\de\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\el\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\es\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\et\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\eu\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fi\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\fr\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\he\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hr\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\hu\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\id\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\it\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ja\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ko\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lt\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\lv\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ms\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\nl\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\no\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pl\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\pt-BR\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ro\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\ru\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sk\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sl\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\sv\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\th\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\tr\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\uk\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\vi\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-Hans\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\Bin\x86\Debug\zh-Hant\System.Windows.Controls.resources.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.csprojResolveAssemblyReference.cache
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\App.g.cs
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AddPage.g.cs
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\DescribePage.g.cs
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\DetailPage.g.cs
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\MainPage.g.cs
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\SearchPage.g.cs
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.g.resources
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.Resources.AppResources.resources
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.csproj.GenerateResource.Cache
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.dll
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.pdb
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\XapCacheFile.xml
+F:\WinPhone\AppDuThi\AppGhiChu\AppGhiChu\obj\x86\Debug\Page1.g.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\Page1.g.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChu\AppGhiChu\obj\x86\Debug\AppGhiChu.csprojResolveAssemblyReference.cache
